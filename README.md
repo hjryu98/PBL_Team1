@@ -3,7 +3,7 @@
 
 ----------------
 ### Abstract
-This project was conducted in Hanyang University's industrial engineering capstone course. This project is an applicable study that improves the performance of voice conversion by adding autovc's speaker encoder to the stargan-vc model. Please refer to the contents of stargan-vc and autovc below. <br>
+This project was conducted in Hanyang University's industrial engineering capstone course. This project is an applicable study that improves the performance of voice conversion by adding speaker encoder of AUTOVC to the StarGAN-VC model. Please refer to the contents of StarGAN-VC and AUTOVC below. <br>
 AUTOVC: https://arxiv.org/abs/1905.05879 <br>
 StarGAN-VC: https://arxiv.org/abs/1806.02169 
 
