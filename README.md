@@ -2,6 +2,12 @@
 2023 1학기 산업공학캡스톤 PBL Team1의 코드입니다.
 
 ----------------
+### Abstract
+This project was conducted in Hanyang University's industrial engineering capstone course. This project is an applicable study that improves the performance of voice conversion by adding autovc's speaker encoder to the stargan-vc model. Please refer to the contents of stargan-vc and autovc below. <br>
+AUTOVC: https://arxiv.org/abs/1905.05879 <br>
+StarGAN-VC: https://arxiv.org/abs/1806.02169 
+
+----------------
 ### Dependencies
 - Python 3.7
 - Pytorch 1.13.1
