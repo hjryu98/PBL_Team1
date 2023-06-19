@@ -33,13 +33,13 @@ python preprocess.py --sample_rate 16000 \
                     --mc_dir_train data/mc/train \
                     --mc_dir_test data/mc/test
 ```
-
+<br>
 
 3. Pre-train
 ```
 데이터에서 speaker embedding vector를 추출
 ```
-
+<br>
 
 4. move_npy
 ```
